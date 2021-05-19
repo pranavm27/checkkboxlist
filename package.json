@@ -1,0 +1,17 @@
+{
+  "name": "checkboxlist",
+  "version": "1.0.0",
+  "description": "Check box list component ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "checkbox",
+    "list",
+    "checkbox",
+    "list"
+  ],
+  "author": "pranav",
+  "license": "ISC"
+}
